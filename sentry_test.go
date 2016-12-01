@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/TykTechnologies/logrus"
 	"github.com/getsentry/raven-go"
 	pkgerrors "github.com/pkg/errors"
 )
